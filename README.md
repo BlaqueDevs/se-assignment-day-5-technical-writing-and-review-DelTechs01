@@ -29,10 +29,10 @@ Flowcharts for processes, diagrams for system architecture, bar charts for data 
 They break up walls of text, guide readers through sections, and let them skim for what’s relevant, making dense info less intimidating.
 
 ## 10. What are some best practices for creating effective headings and subheadings?
- Keep them short, specific (e.g., “Setting Up” vs. “Intro”), use action words, and nest logically (e.g., “Install” under “Setup”) for clarity.
+Keep them short, specific (e.g., “Setting Up” vs. “Intro”), use action words, and nest logically (e.g., “Install” under “Setup”) for clarity.
 
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
-   A one-liner on what it does (e.g., “A simple book management API”), who it’s for, and why it matters—plus a quick setup hook to grab interest.
+ A one-liner on what it does (e.g., “A simple book management API”), who it’s for, and why it matters—plus a quick setup hook to grab interest.
 
 ## 12. How can you succinctly convey the purpose and key features of a product?
-   Lead with a clear tagline (e.g., “Organize books effortlessly”), then bullet out 3-4 standout features like “Add books fast” or “Update with one click.” Keep it punchy.
+ Lead with a clear tagline (e.g., “Organize books effortlessly”), then bullet out 3-4 standout features like “Add books fast” or “Update with one click.” Keep it punchy.
